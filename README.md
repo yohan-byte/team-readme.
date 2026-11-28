@@ -1,8 +1,7 @@
 # team-readme.
 # Team Name
 ## About
-This repository is for our branching and merge conflict activity.
-We are from 9-Lithium, taking Computer Science under the instruction of our teacher, Kyle Enorio.
+Our team is made up of students who are eager to explore technology and improve their problem-solving skills.  
 ## Members
 
 | Name | Role | GitHub Username |
