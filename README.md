@@ -2,8 +2,7 @@
 # Team Name
 ## About
 This repository is for our branching and merge conflict activity.
-We are Grade 9 students learning Computer Science.
-
+We are from 9-Lithium, taking Computer Science under the instruction of our teacher, Kyle Enorio.
 ## Members
 
 | Name | Role | GitHub Username |
