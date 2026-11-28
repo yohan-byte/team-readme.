@@ -11,3 +11,10 @@ This repository is for our branching and merge conflict activity.
 
 ## Contact
 Ask us questions through the Issues tab.
+
+
+## Learning Goals
+
+- Learn how to use **GitHub** effectively.
+- Understand how branches and commits work.
+- Learn how to resolve merge conflicts.
