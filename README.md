@@ -2,5 +2,12 @@
 # Team Name
 ## About
 This repository is for our branching and merge conflict activity.
+
+## Members
+
+| Name | Role | GitHub Username |
+| Yohan Seth S. Abdul | Student A | [@yohan-byte](https://github.com/yohan-byte) |
+| Zuriel Elnathan D. Basa | Student B | [@raul-cute](https://github.com/raul-cute) |
+
 ## Contact
 Ask us questions through the Issues tab.
