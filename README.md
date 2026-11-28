@@ -2,6 +2,7 @@
 # Team Name
 ## About
 This repository is for our branching and merge conflict activity.
+We are Grade 9 students learning Computer Science.
 
 ## Members
 
