@@ -9,6 +9,14 @@ Our team is made up of students who are eager to explore technology and improve 
 | Yohan Seth S. Abdul | Student A | [@yohan-byte](https://github.com/yohan-byte) |
 | Zuriel Elnathan D. Basa | Student B | [@raul-cute](https://github.com/raul-cute) |
 
+
+## Meeting Schedule
+
+| Day | Time |
+| Monday | 3:00 PM |
+| Wednesday | 3:00 PM |
+| Friday | 3:00 PM |
+
 ## Contact
 Ask us questions through the Issues tab.
 
