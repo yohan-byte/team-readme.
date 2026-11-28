@@ -16,6 +16,12 @@ Our team is made up of students who are eager to explore technology and improve 
 | Monday | 3:00 PM |
 | Wednesday | 3:00 PM |
 | Friday | 3:00 PM |
+## Tools We Use
+
+- **GitHub** – For managing repositories.
+- **Visual Studio Code** – For editing code.
+- **Google Docs** – For creating documents.
+
 
 ## Contact
 Ask us questions through the Issues tab.
