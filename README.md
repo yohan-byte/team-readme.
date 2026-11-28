@@ -1,5 +1,15 @@
 # team-readme.
-# Team Name
+# Team Potpot
+
+## Table of Contents
+
+- [About](#about)
+- [Members](#members)
+- [Contact](#contact)
+- [Learning Goals](#learning-goals)
+- [Tools We Use](#tools-we-use)
+- [Meeting Schedule](#meeting-schedule)
+
 ## About
 In 9-Lithium, we study Computer Science with our instructor, Kyle Enorio, to develop our knowledge of computers and programming.
 Our team is made up of students who are eager to explore technology and improve their problem-solving skills.  
