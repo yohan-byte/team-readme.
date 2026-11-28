@@ -2,7 +2,7 @@
 # Team Name
 ## About
 This repository is for our branching and merge conflict activity.
-We are from 9-Lithium, taking Computer Science under the instruction of our teacher, Kyle Enorio.
+Our Computer Science class is under the guidance of instructor Kyle Enorio in section 9-Lithium.
 ## Members
 
 | Name | Role | GitHub Username |
